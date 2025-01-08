@@ -16,12 +16,12 @@ body{
     display: flex;
     flex-direction: column;
     align-items: center;
-    font-family: Menlo, Consolas, Monaco, Liberation Mono, Lucida Console,
+    font-family: Lucida Console,
     monospace;
-    font-size: 1.125rem;
+    font-size: 1.15rem;
     background-color: var(--dark-blue);
     color: var(--light-grey);
-    padding: 0 4px;
+    padding: 0 5px;
 }
 
 h1,
@@ -30,7 +30,7 @@ h2{
     margin: 20px 0;
 }
 h1{
-    font-size: 2.125rem;
+    font-size: 2.15rem;
 }
 .input-container{
     display: flex;
